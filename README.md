@@ -1,0 +1,1 @@
+# NDVI-LandCover-Classification-LogisticRegression
